@@ -1,0 +1,44 @@
+{
+  "sensors": [
+    {
+      "id": "3",
+      "type": "Temperature",
+      "value": "22",
+      "unit": "°C",
+      "icon": "temp_icon",
+      "status": true
+    },
+    {
+      "id": "4",
+      "type": "Water Tank",
+      "value": "75",
+      "unit": "%",
+      "icon": "water_tank_icon",
+      "status": false
+    },
+    {
+      "id": "1",
+      "type": "NPK",
+      "value": "12-45-78",
+      "unit": "mg/kg",
+      "icon": "npk_icon",
+      "status": true
+    },
+    {
+      "id": "1",
+      "type": "NPK",
+      "value": "12-45-78",
+      "unit": "mg/kg",
+      "icon": "npk_icon",
+      "status": true
+    },
+    {
+      "id": 2,
+      "type": "pH",
+      "value": "6.5",
+      "unit": "pH",
+      "icon": "ph_icon",
+      "status": false
+    }
+  ]
+}
